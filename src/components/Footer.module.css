@@ -1,0 +1,17 @@
+/* Footer.module.css */
+.footer {
+    background-color: darkcyan; /* Deakin blue */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
